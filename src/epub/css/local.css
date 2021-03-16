@@ -1,5 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
+@namespace xml "http://www.w3.org/XML/1998/namespace";
 
 [epub|type~="z3998:poem"] p{
 	text-align: initial;
@@ -23,4 +24,8 @@
 p span.i1{
 	text-indent: -1em;
 	padding-left: 2em;
+}
+
+blockquote [xml|lang]{
+	font-style: italic;
 }
