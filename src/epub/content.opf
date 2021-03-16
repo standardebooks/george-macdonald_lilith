@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-macdonald/lilith</dc:identifier>
-		<dc:date>2020-10-23T14:33:47Z</dc:date>
-		<meta property="dcterms:modified">2020-10-23T14:33:47Z</meta>
+		<dc:date>2021-03-16T02:29:26Z</dc:date>
+		<meta property="dcterms:modified">2021-03-16T02:29:26Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,10 +43,10 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85003642</meta>
 		<meta property="se:subject">Fantasy</meta>
-		<dc:description id="description">Mr. Vane discovers another world inside of his library and embarks on an allegorical journey.</dc:description>
+		<dc:description id="description">Mr. Vane discovers another world inside his library and embarks on an allegorical journey.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Lilith was written in 1895. It tells the story of Mr. Vane who owns a library haunted by the former owner. Mr. Vane eventually follows this strange figure through a mirror and into another world. Inside, Vane meets a number of characters including those from the Bible inlcuding Adam and eventually Adam’s first wife Lilith. This begins a battle of good vs evil.&lt;/p&gt;
-			&lt;p&gt;It is considered one of &lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;George MacDonald&lt;/a&gt;’s darker works and tells an allegorical story about life, death and ultimately salvation. MacDonald uses the world to explain his Christian universalist ideas.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Lilith&lt;/i&gt; was published in 1895. It tells the story of Mr. Vane, the owner of a library that seems to be haunted by a raven—the ghost of the library’s former owner. Mr. Vane eventually follows this strange figure through a mirror and into another world, the “region of seven dimensions.” There Vane meets a number of characters, including Biblical characters like Adam and his first wife Lilith. Thus begins a battle of good versus evil that reverberates through dimensions. The narrative is heavy with Christian allegory, and MacDonald uses the world to expound on his Christian universalist philosophy while telling a story of life, death and ultimately salvation.&lt;/p&gt;
+			&lt;p&gt;Critics consider &lt;i&gt;Lilith&lt;/i&gt; to be one of &lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;MacDonald’s&lt;/a&gt; darker works, but opinion on it is divided. Despite this, some critics praise it for its rich imagery, with scholar Neil Barron claiming that the novel is the “obvious parent of &lt;a href="https://standardebooks.org/ebooks/david-lindsay"&gt;David Lindsay’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus"&gt;A Voyage to Arcturus&lt;/a&gt;,” itself a highly influental work of fantasy.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1640</dc:source>
@@ -68,7 +68,7 @@
 		<dc:contributor id="transcriber-1">John Bechard</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Bechard, John</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2"> David Widger</dc:contributor>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">David Hillis</dc:contributor>
@@ -80,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
