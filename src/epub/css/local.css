@@ -30,6 +30,10 @@ blockquote [xml|lang]{
 	font-style: italic;
 }
 
+blockquote cite i[xml|lang]{
+	font-style: normal;
+}
+
 /* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
