@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/george-macdonald/lilith</dc:identifier>
 		<dc:date>2021-03-16T02:29:26Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85003642</meta>
 		<meta property="schema:genre">Fantasy</meta>
-		<dc:description id="description">After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>After inheriting his ancestral home, a young man discovers another world inside his library and embarks on an allegorical journey.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Lilith&lt;/i&gt;, first published in 1895, tells the story of Mr. Vane, the owner of a library that seems to be haunted by a raven—the ghost of the library’s former owner. Mr. Vane eventually follows this strange figure through a mirror and into another world, the “region of seven dimensions.” There Vane meets a number of characters, including Biblical characters like Adam and his first wife Lilith. Thus begins a battle of good versus evil that reverberates through dimensions. The narrative is heavy with Christian allegory, and &lt;a href="https://standardebooks.org/ebooks/george-macdonald"&gt;MacDonald&lt;/a&gt; uses the world to expound on his Christian universalist philosophy while telling a story of life, death and ultimately salvation.&lt;/p&gt;
 			&lt;p&gt;Critics consider &lt;i&gt;Lilith&lt;/i&gt; to be one of MacDonald’s darker works, but opinion on it is divided. Despite this, some critics praise it for its rich imagery, with scholar Neil Barron claiming that the novel is the “obvious parent of &lt;a href="https://standardebooks.org/ebooks/david-lindsay"&gt;David Lindsay’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/david-lindsay/a-voyage-to-arcturus"&gt;A Voyage to Arcturus&lt;/a&gt;&lt;/i&gt;,” itself a highly influential work of fantasy.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1640</dc:source>
 		<dc:source>https://archive.org/details/lilithromance00macduoft</dc:source>
